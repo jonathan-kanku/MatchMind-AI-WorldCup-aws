@@ -1,7 +1,7 @@
 # ⚽ MatchMind AI – AWS World Cup Submission
 
 ## Project Description
-3-in-1 PartyRock app: ritual + quiz + recap for Bundesliga fans, powered by Adidas.
+AI-powered match day companion for Bundesliga fans: pre-match ritual, adaptive quiz, and post-match viral content generator with Adidas integration.
 
 ## Lien vers les apps PartyRock
 - [Pulse – Part of the game way](https://partyrock.aws/u/jonathan-kanku/4PLJiEJoN/The-Beautiful-Game-Content-Machine)
