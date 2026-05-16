@@ -29,7 +29,7 @@
 - Prompt engineering with ChatGPT, Gemini, DeepSeek
 
 ## Vidéo de démo (Link )
-[..............]
+[Coming soon ...]
 
 Author_ Jonathan kanku DRC
 
