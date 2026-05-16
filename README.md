@@ -15,7 +15,7 @@
 
 
 ## How to use
-1. Click on any snapshot link above
+1. Click on any link above
 2. Fill in the inputs (team, level, weather, result, etc.)
 3. Click generate and get your personalized fan content
 
@@ -29,7 +29,7 @@
 - Prompt engineering with ChatGPT, Gemini, DeepSeek
 
 ## Vidéo de démo (Link )
-[Link to YouTube or Loom]
+[..............]
 
 Author_ Jonathan kanku DRC
 
